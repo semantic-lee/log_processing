@@ -1,0 +1,8 @@
+# OS X
+.history
+.DS_STORE
+
+# IntelliJ
+.idea_modules
+.idea/
+*/build/
