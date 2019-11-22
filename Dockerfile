@@ -11,4 +11,4 @@ RUN pip install -r requirements.txt
 # Bundle app source
 COPY src /app
 
-CMD [ "python", "app/log_aggregation.py" ]
+CMD [ "python", "app/log_aggregation.py"]
